@@ -1,0 +1,19 @@
+{
+    "name": "newscom-basic",
+    "version": "1.0.0",
+    "description": "news web with basic code",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app"
+    },
+    "author": "novan",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^14.2.0",
+        "ejs": "^3.1.6",
+        "express": "^4.17.2",
+        "jshint": "^2.13.3",
+        "mongo": "^0.1.0",
+        "nodemon": "^2.0.15"
+    }
+}

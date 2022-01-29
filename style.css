@@ -1,0 +1,25 @@
+body {
+    /* background-color: rgb(40, 45, 50); */
+    height: 100%;
+    width: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: whitesmoke;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.socmedicon {
+    height: 50px;
+    padding: 10px;
+}
+
+#latestNews {
+    position: fixed;
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
